@@ -1,4 +1,4 @@
-# dev.stack.docs
+# gaGO.io Platform
 Versão: PRÉ-ALPHA
 
 
